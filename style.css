@@ -1,0 +1,23 @@
+p {
+	font-size : 30px;
+	color : red;
+	border : 10px gray;
+	border-style : inset double dashed ridge;
+	text-align : center;
+	background : green;
+	cursor : pointer;
+}
+p.dark-row { background-color : #EAEAEA;}
+p.light-row { background-color : #F8F8F8;}
+p:link {color:red;}
+p:hover {color:bule; font-weight:bold;}
+
+
+h1 {
+	font-size : x-large;
+	color : black;
+}
+h2 {
+	font-size : large;
+	color : blue;
+}
